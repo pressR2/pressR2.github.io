@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.96aba4e5.chunk.css",
-    "main.js": "/static/js/main.ddf1c040.chunk.js",
-    "main.js.map": "/static/js/main.ddf1c040.chunk.js.map",
+    "main.css": "/static/css/main.06d1ca6a.chunk.css",
+    "main.js": "/static/js/main.e5411004.chunk.js",
+    "main.js.map": "/static/js/main.e5411004.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6e48ae5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.6e48ae5f.js.map",
     "static/css/2.18585a14.chunk.css": "/static/css/2.18585a14.chunk.css",
     "static/js/2.d29e5df6.chunk.js": "/static/js/2.d29e5df6.chunk.js",
     "static/js/2.d29e5df6.chunk.js.map": "/static/js/2.d29e5df6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dbc1265b4fae02a8c173f31065b80d2c.js": "/precache-manifest.dbc1265b4fae02a8c173f31065b80d2c.js",
+    "precache-manifest.273373d901520d76b434c4cd41ff697b.js": "/precache-manifest.273373d901520d76b434c4cd41ff697b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.18585a14.chunk.css.map": "/static/css/2.18585a14.chunk.css.map",
-    "static/css/main.96aba4e5.chunk.css.map": "/static/css/main.96aba4e5.chunk.css.map",
+    "static/css/main.06d1ca6a.chunk.css.map": "/static/css/main.06d1ca6a.chunk.css.map",
     "static/js/2.d29e5df6.chunk.js.LICENSE": "/static/js/2.d29e5df6.chunk.js.LICENSE",
     "static/media/arcade-game.png": "/static/media/arcade-game.d049b31c.png",
     "static/media/arcade-game2.png": "/static/media/arcade-game2.3be1c01a.png",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.6e48ae5f.js",
     "static/css/2.18585a14.chunk.css",
     "static/js/2.d29e5df6.chunk.js",
-    "static/css/main.96aba4e5.chunk.css",
-    "static/js/main.ddf1c040.chunk.js"
+    "static/css/main.06d1ca6a.chunk.css",
+    "static/js/main.e5411004.chunk.js"
   ]
 }
